@@ -1,2 +1,3 @@
-# Data-analytics-using-python
-A data analysis project using python.
+# Learning-projects
+A series of basic projects on machine learning and data science to implement learnings into real world.
+
